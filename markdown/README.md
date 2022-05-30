@@ -29,11 +29,11 @@ My hobbies include playing badminton, swimming and reading novels.
 - **HS221** : Economics by *Dr. Sunil Paul*
 
 ### Spring 2021-22
-1. **CS222** : Algorithm design by <u>Dr Rahul CS</u>
-2. **CS211**: Computer Architecture by <u>Dr. Sharad Sinha</u>
-3. **CS415** : Modelling and Simulation of DES by <u>Dr. Neha Karanjkar</u>
-4. **CS440** : Computer Graphics by <u>Dr. Venkatesh Kamat</u>
-5. **CS102** : Software Tools by <u>Dr Clint George</u> [link](https://clintpgeorge.github.io/cs-102/spring-2022/)
+1. *CS222* : Algorithm design by <u>Dr Rahul CS</u>
+2. *CS211*: Computer Architecture by <u>Dr. Sharad Sinha</u>
+3. *CS415* : Modelling and Simulation of DES by <u>Dr. Neha Karanjkar</u>
+4. *CS440* : Computer Graphics by <u>Dr. Venkatesh Kamat</u>
+5. *CS102* : Software Tools by <u>Dr Clint George</u> [link](https://clintpgeorge.github.io/cs-102/spring-2022/)
 
 ***
 ## Hobbies
