@@ -10,11 +10,11 @@ My hobbies include playing badminton, swimming and reading novels.
 
 ## Education
 
-| Year of graduation     | Degree | Institution   |
-| :---        |    :----:   |          ---: |
-| 2024     | B. Tech.      | Indian Institute of Technology, Goa   |
-| 2019   | 12th standard or equivalent       | Pana PU College, Mangalore      |
-| 2017   | 10th standard or equivalent       | NCFE, Bangalore     |
+| Year of graduation |           Degree            |                         Institution |
+| :----------------- | :-------------------------: | ----------------------------------: |
+| 2024               |          B. Tech.           | Indian Institute of Technology, Goa |
+| 2019               | 12th standard or equivalent |          Pana PU College, Mangalore |
+| 2017               | 10th standard or equivalent |                     NCFE, Bangalore |
 
 ***
 
@@ -44,8 +44,8 @@ I love Playing Badminton, Click the photo to read some intersting facts about ba
 
 Here are some badminton tournaments I played in and the medals I recieved:
 
-| Competetion     | Medal |
-| :---        |          ---: |
-| VK Sports Club Women Singles      | Gold       | 
-| IIT Goa Women's Singles   | Silver       | 
-| IIT Goa Women's Doubles   | Bronze        |
+| Competetion                  |  Medal |
+| :--------------------------- | -----: |
+| VK Sports Club Women Singles |   Gold |
+| IIT Goa Women's Singles      | Silver |
+| IIT Goa Women's Doubles      | Bronze |
